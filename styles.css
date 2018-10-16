@@ -9,3 +9,14 @@ h2 {
     color: blue;
     font-family: 'Montserrat', sans-serif;
 }
+
+.titlebig {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.title {
+    font-weight: bold;
+    color: black;
+}
